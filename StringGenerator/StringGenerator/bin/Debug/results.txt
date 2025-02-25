@@ -1,0 +1,4 @@
+Count	Concat Time (ms)	StringBuilder Time (ms)
+1000	13	0
+10000	187	3
+100000	78290	23

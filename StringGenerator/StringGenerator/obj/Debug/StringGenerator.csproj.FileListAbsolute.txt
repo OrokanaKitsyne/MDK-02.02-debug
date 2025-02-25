@@ -1,0 +1,7 @@
+D:\source\StringGenerator\StringGenerator\bin\Debug\StringGenerator.exe.config
+D:\source\StringGenerator\StringGenerator\bin\Debug\StringGenerator.exe
+D:\source\StringGenerator\StringGenerator\bin\Debug\StringGenerator.pdb
+D:\source\StringGenerator\StringGenerator\obj\Debug\StringGenerator.csproj.AssemblyReference.cache
+D:\source\StringGenerator\StringGenerator\obj\Debug\StringGenerator.csproj.CoreCompileInputs.cache
+D:\source\StringGenerator\StringGenerator\obj\Debug\StringGenerator.exe
+D:\source\StringGenerator\StringGenerator\obj\Debug\StringGenerator.pdb
